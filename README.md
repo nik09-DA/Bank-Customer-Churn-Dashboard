@@ -3,7 +3,9 @@
 An interactive Excel dashboard that shows **why bank customers leave** and what the bank can do about it.
 
 **Tools:** Excel | Power Query | Pivot Tables | Slicers | GETPIVOTDATA | Claude AI (used to speed up analysis and wording)
+DASHBOARD OVERVIEW[![Dashboard overview](DASHBOARD1.png)
 
+![Charts and insights](DASHBOARD2.png)]
 ---
 
 ## The Problem
